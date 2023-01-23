@@ -2,7 +2,7 @@
 
 Repo for the `GitHub Actions Fundamentals` training.
 
-*updated for trigger*
+*updated for trigger* 2nd update
 
 ## 👉 Objectives
 
